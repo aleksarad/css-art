@@ -11,3 +11,5 @@
 * [Skyline](https://codepen.io/aradevich/pen/ExgaOKv) 🌃
 * [Pig](https://codepen.io/aradevich/pen/YzGyPWb) 🐷
 * [Christmas Tree](https://codepen.io/aradevich/pen/WNGQaVL) 🎄
+* [Christmas Tree v2](https://codepen.io/aradevich/pen/KKgVLbB) 🎄
+* [Christmas Tree v2 - Pink](https://codepen.io/aradevich/pen/GRjoyMb) 🎄
