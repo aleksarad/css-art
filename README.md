@@ -4,6 +4,7 @@
 
 *CodePen links will be updated below:*
 
+* [Poodle](https://codepen.io/aradevich/pen/yLaaxxy) 🐩
 * [Black Cat](https://codepen.io/aradevich/pen/abmmzMy) 🐈
 * [Christmas Tree](https://codepen.io/aradevich/pen/WNGQaVL) 🎄
 * [Christmas Tree v2](https://codepen.io/aradevich/pen/KKgVLbB) 🎄
