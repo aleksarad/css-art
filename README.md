@@ -3,6 +3,8 @@
 *My attempts and journey at drawing with CSS.*
 
 *CodePen links will be updated below:*
+
+* [Cucumber](https://codepen.io/aradevich/pen/zYKwPyR) 🥒
 * [Egg](https://codepen.io/aradevich/pen/zYKwPyR) 🥚
 * [Cow](https://codepen.io/aradevich/pen/JjRbWyK) 🐮
 * [Poodle](https://codepen.io/aradevich/pen/yLaaxxy) 🐩
