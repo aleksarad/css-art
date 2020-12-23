@@ -4,6 +4,7 @@
 
 *CodePen links will be updated below:*
 
+* [Interactive Shiba Inu](https://codepen.io/aradevich/pen/YzGQoxe) 🐕
 * [Orange](https://codepen.io/aradevich/pen/LYRLQxV) 🍊
 * [Tomato](https://codepen.io/aradevich/pen/oNzwXzb) 🍅
 * [Cucumber](https://codepen.io/aradevich/pen/zYKwPyR) 🥒
