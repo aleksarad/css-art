@@ -4,6 +4,7 @@
 
 *CodePen links will be updated below:*
 
+* [Princess Serenity - Sailor Moon](https://codepen.io/aradevich/pen/abmEExw) 👑
 * [Sailor Moon](https://codepen.io/aradevich/pen/mdrqVbL) 🌙
 * [Nightmare Before Christmas **picked by codepen**](https://codepen.io/aradevich/pen/jOMLeVY) 🎄
 * [ATLA Momo](https://codepen.io/aradevich/pen/vYXJywm) 🐒
