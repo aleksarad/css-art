@@ -4,6 +4,7 @@
 
 *CodePen links will be updated below:*
 
+* [Ice Cream](https://codepen.io/aradevich/pen/QWGZrYr) 🍦
 * [Emojis](https://codepen.io/aradevich/pen/yLVyzGP) 🤩
 * [Chibi Katara - ATLA](https://codepen.io/aradevich/pen/yLaWGZq) 🌊
 * [Princess Serenity - Sailor Moon](https://codepen.io/aradevich/pen/abmEExw) 👑
